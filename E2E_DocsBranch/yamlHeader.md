@@ -12,6 +12,11 @@ keywords: Concepual, Metadata
 manager: carolz
 open_to_public_contributors: False
 ms.service: active-directory
+testStr: testvalue
+testBool: true
+testDate: 02/07/2017
+testInt: 123
+testUrl: https://www.test123.com/
 ---
 
 # This page is about a page to test YAML Header.
