@@ -10,7 +10,7 @@ author: v-susu
 ms.author: ConcepualHelpPub
 keywords: Concepual, Metadata
 manager: carolz
-open_to_public_contributors: True
+open_to_public_contributors: False
 ms.service: active-directory
 ---
 
