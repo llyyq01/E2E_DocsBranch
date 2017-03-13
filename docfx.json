@@ -1,0 +1,42 @@
+﻿{
+  "build": {
+    "content": [
+      {
+        "files": ["**/*.yml", "**/*.md"],
+        "src": "apple-v4.5.0",
+        "version": "apple-v4.5.0_test",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ]
+      },
+      {
+        "files": ["**/*.yml", "**/*.md"],
+        "src": "apple-v4.6.0",
+        "version": "apple-v4.6.0_test",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ]
+      },
+      {
+        "files": ["*.md", "*.yml"]
+      }
+    ],
+    "versions": {
+      "apple-v4.5.0_test": {
+        "dest": "apple-v4.5.0"
+      },
+      "apple-v4.6.0_test": {
+        "dest": "apple-v4.6.0"
+      }
+    },
+    "dest": "testMultipleVersion"
+  }
+}
