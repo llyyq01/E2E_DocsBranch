@@ -3,8 +3,8 @@
     "content": [
       {
         "files": ["**/*.yml", "**/*.md"],
-        "src": "apple-v4.5.0",
-        "version": "apple-v4.5.0_test",
+        "src": "netstandard-1.0-src",
+        "version": "netstandard-1.0",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -15,8 +15,8 @@
       },
       {
         "files": ["**/*.yml", "**/*.md"],
-        "src": "apple-v4.6.0",
-        "version": "apple-v4.6.0_test",
+        "src": "netstandard-1.1-src",
+        "version": "netstandard-1.1",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -30,11 +30,11 @@
       }
     ],
     "versions": {
-      "apple-v4.5.0_test": {
-        "dest": "apple-v4.5.0"
+      "netstandard-1.0": {
+        "dest": "netstandard-1.0-desk"
       },
-      "apple-v4.6.0_test": {
-        "dest": "apple-v4.6.0"
+      "netstandard-1.1": {
+        "dest": "netstandard-1.1-desk"
       }
     },
     "dest": "testMultipleVersion"
