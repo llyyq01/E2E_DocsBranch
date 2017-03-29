@@ -1,5 +1,5 @@
 # TOC Pane
 ## [Index](index.md)
 ## [Sample page](samplepage.md)
-### [Code Snippet](codesnippet.md)
+## [Code Snippet](codesnippet.md)
 # [Bookmark](bookmark.md)
