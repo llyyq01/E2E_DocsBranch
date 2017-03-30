@@ -1,0 +1,26 @@
+- name: Enterprise Mobility  
+  tocHref: /EM/  
+  topicHref: /EM/index  
+  items:  
+  - name: Solutions   
+    tocHref: /EM/Solutions/    
+    topicHref: /EM/Solutions/byod-design-considerations-guide  
+  - name: Advanced Threat Analytics    
+    tocHref: /ATA/    
+    topicHref: /ATA/index    
+    items:      
+      - name: Understand and explore        
+        tocHref: /ATA/Understand/        
+        topicHref: /ATA/understand/ata-understand-and-explore      
+      - name: Plan and design         
+        tocHref: /ATA/PlanDesign/        
+        topicHref: /ATA/plandesign/ata-plan-and-design  
+    - name: Intune    
+      tocHref: /InTune/   
+      topicHref: /InTune/index    
+      items:     
+        - name: Understand and explore        
+          tocHref: /Intune/Understand/        
+          topicHref: /Intune/understand-explore/ways-to-do-enterprise-mobility      
+        - name: Deploy and use        
+          topicHref: /Intune/DeployUse/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents
