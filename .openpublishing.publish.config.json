@@ -33,6 +33,22 @@
       "build_entry_point": "docs",
       "template_folder": "_themes",
       "version": 0
+    },
+    {
+      "docset_name": "E2E_DocsBranchLoc",
+      "build_source_folder": "E2E_DocsBranchLoc",
+      "build_output_subfolder": "E2E_DocsBranchLoc",
+      "locale": "zh-cn",
+      "monikers": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
   "notification_subscribers": [],
