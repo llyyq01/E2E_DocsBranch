@@ -6,8 +6,8 @@
       "docset_name": "E2E_DocsBranch",
       "build_source_folder": "E2E_DocsBranch",
       "build_output_subfolder": "E2E_DocsBranch",
-      "locale": "zh-cn",
-      "monikers": [],
+      "locale": "en-us",      
+      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -15,8 +15,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "version": 0
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
@@ -24,12 +23,6 @@
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
   "dependent_repositories": [
-    {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
-      "branch": "master",
-      "branch_mapping": {}
-    },
     {
       "path_to_root": "_themes",
       "url": "https://github.com/openpublish/templates.docs.msft",
