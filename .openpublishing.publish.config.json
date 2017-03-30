@@ -7,7 +7,6 @@
       "build_source_folder": "E2E_DocsBranch",
       "build_output_subfolder": "E2E_DocsBranch",
       "locale": "en-us",
-      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
