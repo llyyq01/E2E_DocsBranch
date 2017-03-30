@@ -7,7 +7,7 @@
       "build_source_folder": "E2E_DocsBranch",
       "build_output_subfolder": "E2E_DocsBranch",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -15,7 +15,24 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "version": 0
+    },
+    {
+      "docset_name": "E2E_DocsBranches",
+      "build_source_folder": "E2E_DocsBranches",
+      "build_output_subfolder": "E2E_DocsBranches",
+      "locale": "zh-cn",
+      "monikers": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
   "notification_subscribers": [],
@@ -26,6 +43,12 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/openpublish/templates.docs.msft",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
       "branch": "master",
       "branch_mapping": {}
     }
