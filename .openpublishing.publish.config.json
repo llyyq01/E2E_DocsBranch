@@ -63,7 +63,7 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "_themes",
+      "path_to_root": "_repo.en_us",
       "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
       "branch": "master",
       "branch_mapping": {}
