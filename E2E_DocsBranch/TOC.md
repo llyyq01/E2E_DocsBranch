@@ -1,2 +1,2 @@
 # [Index](index.md)
-# [Index](Topic.md)
+# [topic](Topic.md)
