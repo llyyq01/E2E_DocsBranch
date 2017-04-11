@@ -4,8 +4,7 @@
       {
         "files": [
           "**/*.md",
-          "**/*.yml",
-          "**/*.json"
+          "**/breadcrumb.json"
         ],
         "exclude": [
           "**/obj/**",
