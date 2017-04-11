@@ -11,7 +11,7 @@
                   {
                     "href" : "/e2e_docsbranch/",
                     "homepage" : "/e2e_docsbranch/index",
-                    "toc_title" : "Index"
+                    "toc_title" : "Index",
                     "level" : 2,
                     "children" : [{
                                     "href" : "/e2e_docsbranch/samplepage/",
