@@ -32,7 +32,7 @@
     "template": [],
     "dest": "E2E_DocsBranch",
     "globalMetadata": {
-        "breadcrumb_path": "/toc.yml"
+        "breadcrumb_path": "/breadcrumb.json"
     }
   }
 }
